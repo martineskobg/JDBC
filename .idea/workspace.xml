@@ -56,6 +56,11 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Martin\Documents\Training Projects\JDBC\Project Setup" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.SingletonTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jdbc.project_setup.automation_project.Main" />
@@ -96,7 +101,7 @@
       <updated>1657881702567</updated>
       <workItem from="1657881704742" duration="54000" />
       <workItem from="1657881776410" duration="101000" />
-      <workItem from="1657881951848" duration="1195000" />
+      <workItem from="1657881951848" duration="2532000" />
     </task>
     <servers />
   </component>
