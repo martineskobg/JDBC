@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/jdbc/project_setup/automation_project/Main.java" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/jdbc/project_setup/factory/Main.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/java/SingletonTest.java" dialect="PostgreSQL" />
+  </component>
+</project>
